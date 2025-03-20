@@ -1,5 +1,7 @@
 ** Diagrama de Classes 
 
+--- mermaid
+
 classDiagram
     class User {
         - string name
