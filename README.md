@@ -1,7 +1,6 @@
-###Diagrama de Classes 
+## Diagrama de Classes em Mermaid
 
---- mermaid
-
+```mermaid
 classDiagram
     class User {
         - string name
